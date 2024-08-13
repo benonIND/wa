@@ -1,3 +1,4 @@
+development by Yorima_
 # wa
 cara install ditermux
 
